@@ -6,4 +6,5 @@
 - [The React.js Way: Getting Started Tutorial](https://blog.risingstack.com/the-react-way-getting-started-tutorial/)
 - [Notetaker App](https://github.com/tylermcginnis/github-notetaker-egghead)
 - [Getting Started with React - Scotch.io](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
-
+- [Simple React server-side rendering](https://github.com/mhart/react-server-example)
+- [React Checkbox Group](https://github.com/ziad-saab/react-checkbox-group)
