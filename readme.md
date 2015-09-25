@@ -8,3 +8,4 @@
 - [Getting Started with React - Scotch.io](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
 - [Simple React server-side rendering](https://github.com/mhart/react-server-example)
 - [React Checkbox Group](https://github.com/ziad-saab/react-checkbox-group)
+- [React To The Future With Isomorphic Apps](http://www.smashingmagazine.com/2015/04/react-to-the-future-with-isomorphic-apps/)
